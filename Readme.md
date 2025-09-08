@@ -9,3 +9,5 @@ Vou alterar meu arquivo novamente.
 Vou alterar o arquivo mais uma vez para mostrar o ciclo de vid dele.
 
 ## Segunda aula criando e ativando a chave SSH
+
+Ativamos a chaves e incluiamos a chave publica no Github
