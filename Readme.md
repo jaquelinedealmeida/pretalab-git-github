@@ -13,3 +13,5 @@ Vou alterar o arquivo mais uma vez para mostrar o ciclo de vid dele.
 Ativamos a chaves e incluiamos a chave publica no Github
 
 ## Terceira aula conectando o Git com Github
+
+# Segunda Semana
