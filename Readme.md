@@ -20,3 +20,5 @@ Criamos repositório remoto e conectamos ao git.
 # Segunda Semana Git Avançado
 
 ## Aula 1 Branches e seu fluxo
+
+Criamos repositório remoto e conectamos ao git.
