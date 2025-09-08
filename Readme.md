@@ -5,4 +5,7 @@ A primeira aula apresentou o conceito de Git e a sua importância na comunidade 
 
 Vou alterar meu arquivo novamente.
 
+
 Vou alterar o arquivo mais uma vez para mostrar o ciclo de vid dele.
+
+## Segunda aula criando e ativando a chave SSH
