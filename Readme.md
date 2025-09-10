@@ -14,8 +14,6 @@ Ativamos a chaves e incluiamos a chave publica no Github
 
 ## Terceira aula conectando o Git com Github
 
-Criamos repositório remoto e conectamos ao git.
-
 
 # Segunda Semana Git Avançado
 
